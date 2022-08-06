@@ -888,6 +888,7 @@ elkhechafi zakaria
 - [Meg Parsons] (https://github.com/techmeg)
 - [Enock Omondi] (https://github.com/Trend20)
 - [Kartikey Jangir] (https://github.com/kartikeyjangir)
+- [Arti A] 
 - [Janeth Betancourt](https://github.com/janbe30)
 - [Jason Jiang](https://github.com/JJiang76)
 - [Kim Seon Woo](https://github.com/seonwoo960000)
